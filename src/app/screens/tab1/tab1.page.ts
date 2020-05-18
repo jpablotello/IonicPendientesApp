@@ -31,7 +31,7 @@ export class Tab1Page {
           text: 'Cancelar',
           role: 'cancel',
           handler: () => {
-            console.log('cancelar')
+            console.log('cancelar');
           }
         },
         {
